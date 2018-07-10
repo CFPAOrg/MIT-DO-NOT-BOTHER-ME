@@ -2,7 +2,7 @@
 
 I just want to write some code. Don't bother me, and take the software as you want.
 
-![Built with love](https://forthebadge.com/images/badges/built-with-love.svg)]![For you](https://forthebadge.com/images/badges/for-you.svg)]![Makes people smile](https://forthebadge.com/images/badges/makes-people-smile.svg)]
+![Built with love](https://forthebadge.com/images/badges/built-with-love.svg)![For you](https://forthebadge.com/images/badges/for-you.svg)![Makes people smile](https://forthebadge.com/images/badges/makes-people-smile.svg)
 
 ## Permissions
 
