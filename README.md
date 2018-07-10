@@ -31,7 +31,7 @@ I just want to write some code. Don't bother me, and take the software as you wa
 
 > On [Minecraft CurseForge](https://minecraft.curseforge.com/), there're a lot of modders, who develop mods and publish them. As Minecraft is becoming more and more popular, some communities are developing rapidly, and there appears a new kind of volunteers called "porter"(which is called "搬运工" in Chinese). They ask modders for permissions, and repost it on some communities(BBSes, download site, etc.). But some porters ask for permissions even though the mods are open-sourced. It has seriously affected the atmosphere of CurseForge and the mood of modders.
 
-That's why we started MIT-DNBM. It can protect him(her) from a lot of useless requests for reposting mods to another website. But anyone who don't want to be bothered can use this license.
+That's why we started MIT-DNBM. It can protect modders from a lot of useless requests for reposting mods to another website. But anyone who don't want to be bothered can use this license.
 
 - Who are you?
 - We are [CFPA Team](https://cfpa.team/)(neither China Fire Protection Association, nor China Foundation for Poverty Alleviation, a team dedicated to tranlating Minecraft mods to Chinese. [Check out our work.](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package)
