@@ -14,7 +14,7 @@ I just want to write some code. Don't bother me, and take the software as you wa
 ## Conditions
 
 - License and copyright notice
-- [**No asking for rights**](#FAQ)
+- [**No asking for rights**](#faq)
 
 ## Limitations
 
