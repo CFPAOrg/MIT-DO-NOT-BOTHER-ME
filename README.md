@@ -44,7 +44,7 @@ That's why we started MIT-DNBM. It can protect modders from a lot of useless req
 ---
 
 - Sounds great! I want to help you!
-- Wanna help? Send a pull request, or use it in your project. We will be happy to provide help! (。・∀・)ノ
+- Wanna help? Send a pull request, or use it in your project. We will be very happy! (。・∀・)ノ
 
 ## License
 
