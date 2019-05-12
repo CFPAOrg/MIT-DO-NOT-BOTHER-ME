@@ -38,7 +38,7 @@ That's why we started MIT-DNBM. It can protect modders from a lot of useless req
 ---
 
 - Who are you?
-- We are [CFPA Team](https://cfpa.team/)(neither China Fire Protection Association, nor China Foundation for Poverty Alleviation), a team dedicated to tranlating Minecraft mods to Chinese. [Check out our work.](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package)
+- We are [CFPA Team](https://cfpa.team/)(neither China Fire Protection Association, nor China Foundation for Poverty Alleviation), a team dedicated to translating Minecraft mods to Chinese. [Check out our work.](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package)
 - ~~We are Cirno Fans Protection Association in fact~~
 
 ---
